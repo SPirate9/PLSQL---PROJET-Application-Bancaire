@@ -14,5 +14,5 @@ Pour réaliser cette application, un découpage par lot des tâches est proposé
 
 Lot 1 : Mise en place des tables de production.  
 Lot 2 : Mise en place du package. 
-Lot 3 : Mise en place du trigger de calcul de solde. 
-Compléments : Mise en place des Vues. 
+Lot 3 : Mise en place du trigger de calcul de solde.     
+Compléments : Mise en place des Vues.   
